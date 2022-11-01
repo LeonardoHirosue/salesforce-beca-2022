@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "XPTOBeca2022",
+  "namespace": "",
+  "sfdcLoginUrl": "https://xpto-beta-2022-dev-ed.my.salesforce.com/",
+  "sourceApiVersion": "55.0"
+}
