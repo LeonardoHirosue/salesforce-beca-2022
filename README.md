@@ -133,17 +133,7 @@ CSAT Avarage                |               |                    |              
 
 ![Fluxo de Apresentação - Beca 2022](./Fluxo%20de%20Apresenta%C3%A7%C3%A3o%20(Beca%202022).png)
 
----
-<!-- ## Acessos
 
-https://xpto-beta-2022-dev-ed.lightning.force.com
-username: leonardo@developer.sandbox
-
-username: emily.carter@sample.com
-password: beca2022
-
-username: josh.smith@sample.com
-password: beca2022 -->
 
 
 
